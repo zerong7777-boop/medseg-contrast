@@ -5,7 +5,7 @@
 set -e
 
 # PH2 结果根目录
-ROOT="/home/jgzn/PycharmProjects/RZ/danzi/seg/result/ISIC18"
+ROOT=""
 
 # 需要批量处理的模型列表
 MODELS=(
